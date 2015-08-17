@@ -1,9 +1,6 @@
 .classpath
 .project
 .settings
-doc/src/main/docbook/style
-issues/lsv
-overlays
 target
 rebel.xml
 *.sh
